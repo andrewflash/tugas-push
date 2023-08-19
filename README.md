@@ -2,4 +2,4 @@
 Contoh python 
 
 ## Contoh Gambar Dashboard
-![Alt text](ubidots.png "Dashboard")
+![Alt text](img/ubidots.png "Dashboard")
